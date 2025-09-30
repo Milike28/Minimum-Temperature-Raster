@@ -1,0 +1,2 @@
+n_bands,crs,scale_factor,data_min,data_max,data_mean
+5,EPSG:4326,1.0,-9.052621,24.636774,18.011

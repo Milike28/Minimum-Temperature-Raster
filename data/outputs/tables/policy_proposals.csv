@@ -1,0 +1,4 @@
+propuesta,objetivo,poblacion_objetivo,intervencion,costo_unitario_s,cobertura_pct,beneficiarios,costo_total_s,kpi,plazo_años
+Mejoramiento Termico de Viviendas,Reducir incidencia de IRA/EDA en 40%,342 distritos alto riesgo,"Aislamiento termico, ventanas dobles, techos mejorados",8000.0,60.0,102600,205200000.0,Reduccion 40% casos IRA/EDA en MINSA; ausentismo escolar -30%,3
+Kits Anti-Heladas Agricolas,Reducir perdidas agricolas por heladas en 50%,179 distritos P10 temperatura,"Mallas anti-heladas, calendarios agricolas, cobertores",1200.0,70.0,119699,35909999.99999999,Perdida cosechas -50%; ingreso agricola +35%; mortalidad ganado -40%,2
+Infraestructura Educativa y Salud Resiliente,Garantizar continuidad servicios en periodos criticos,342 distritos alto riesgo,"Calefaccion escuelas/salud, aislamiento, equipamiento",166666.66666666666,100.0,171000,171000000.0,Asistencia escolar +25%; atencion salud continua 100%; friaje 0 muertes,4
