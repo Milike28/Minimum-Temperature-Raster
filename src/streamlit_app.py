@@ -19,7 +19,7 @@ st.set_page_config(
 )
 
 ### Rutas
-BASE_DIR = Path("C:/Users/ASUS/OneDrive - Universidad del Pacífico/Tareas Data Science/Minimum-Temperature-Raster")
+BASE_DIR = Path(__file__).parent.parent
 DATA_DIR = BASE_DIR / 'data'
 PROCESSED_DIR = DATA_DIR / 'processed'
 TABLES_DIR = DATA_DIR / 'outputs' / 'tables'
