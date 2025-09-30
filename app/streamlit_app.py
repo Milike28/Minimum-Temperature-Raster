@@ -104,7 +104,10 @@ tab1, tab2, tab3, tab4, tab5 = st.tabs([
 # ──────────────────────────────────────────────────────────────
 with tab1:
     st.header("Análisis Visual de Temperatura")
-    
+    if sel_region != 'Todos':
+        st.subheader(f"Distribución de Temperatura en {sel_region}")
+    else:
+        st.subheader("Distribución de Temperatura en todas las Regiones")
     # Gráfico 1: Distribución de temperatura
     st.subheader("1️⃣ Distribución de Temperatura Media")
     if (PLOTS / '01_temperature_distribution.png').exists():
